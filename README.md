@@ -85,14 +85,9 @@ This Ultrasonic can measure distance between 2-500 in centimeter prcisely which 
 - **Camera** - We use **Pixy 2.1** for our robot because of its very easy to use and its has free libraly and application to configure it.
 <img src="https://www.zagrosrobotics.com/images/pixy2_3.jpg"  width="400"/>
 
-- **Microcontroller Board** - **Arduino UNO**, the Processor unit for our robot
+- **Microcontroller Board** - **POP-32**, the Processor unit for our robot
+https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2FLEST0808%2FLEST0808%2Fblob%2Fmain%2FPOP32.png&e=AT1VbWxR5rhv4y4DDBR9v8EZNC5LCno5wZhb9ZWwSiLFLe5CEkP2FqzYtotJXDBPb70AblXEwPiVISiPsiAGrX1dfRNXV0GvinwgWyl928V4vK7O6BgMOyN9bc8w9MaDW4p5KH2KYVQjW-lo6llddA
 
-<img src="https://www.warf.com/imagesitem/original/6534_3736.jpg" width="400"/>
-
-- **Shield L298P Motor Driver with GPIO**, enables arduino UNO to control  motors
-
-<img src="https://static.cytron.io/image/cache/catalog/products/SHIELD-L298P-BUZZ/Shield-L298P-BUZZ%20(1)-800x800.jpg"  width="400"/>
-  
 **Wire connections for our robot**
 ```c
 //  Motor B
